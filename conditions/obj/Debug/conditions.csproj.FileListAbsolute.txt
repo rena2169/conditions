@@ -1,0 +1,7 @@
+C:\Users\sufiy\source\repos\conditions\conditions\bin\Debug\conditions.exe.config
+C:\Users\sufiy\source\repos\conditions\conditions\bin\Debug\conditions.exe
+C:\Users\sufiy\source\repos\conditions\conditions\bin\Debug\conditions.pdb
+C:\Users\sufiy\source\repos\conditions\conditions\obj\Debug\conditions.csproj.AssemblyReference.cache
+C:\Users\sufiy\source\repos\conditions\conditions\obj\Debug\conditions.csproj.CoreCompileInputs.cache
+C:\Users\sufiy\source\repos\conditions\conditions\obj\Debug\conditions.exe
+C:\Users\sufiy\source\repos\conditions\conditions\obj\Debug\conditions.pdb
