@@ -118,7 +118,7 @@ namespace conditions
 
             // Определение времени года
 
-            //Console.Write("Введите номер месяца: ");
+            //Console.Write("Введите номер месяца (1-12): ");
             //int monthNumber = Convert.ToInt32(Console.ReadLine());
 
             //switch (monthNumber)
