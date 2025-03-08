@@ -119,28 +119,28 @@ namespace conditions
             // Определение времени года
 
             //Console.Write("Введите номер месяца: ");
-            //String monthNumber = Console.ReadLine();
+            //int monthNumber = Convert.ToInt32(Console.ReadLine());
 
             //switch (monthNumber)
             //{
-            //    case "1":
-            //    case "2":
-            //    case "12":
+            //    case 1:
+            //    case 2:
+            //    case 12:
             //        Console.WriteLine("Зима");
             //        break;
-            //    case "3":
-            //    case "4":
-            //    case "5":
+            //    case 3:
+            //    case 4:
+            //    case 5s:
             //        Console.WriteLine("Весна");
             //        break;
-            //    case "6":
-            //    case "7":
-            //    case "8":
+            //    case 6:
+            //    case 7:
+            //    case 8:
             //        Console.WriteLine("Лето");
             //        break;
-            //    case "9":
-            //    case "10":
-            //    case "11":
+            //    case 9:
+            //    case 10:
+            //    case 11:
             //        Console.WriteLine("Осень");
             //        break;
             //    default:
