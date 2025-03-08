@@ -39,11 +39,11 @@ namespace conditions
             //float discountAmount;
             //float totalPrice;
 
-            //if (totalPurchase <= 1000)
+            //if (totalPurchase >= 0 && totalPurchase <= 1000)
             //{
             //    Console.WriteLine($"Итоговая сумма к оплате: {totalPurchase}");
             //}
-            //else if (totalPurchase > 1000)
+            //else if (totalPurchase <= 5000)
             //{
             //    discountAmount = (totalPurchase * 10) / 100;
             //    totalPrice = totalPurchase - discountAmount;
@@ -63,7 +63,7 @@ namespace conditions
             //Console.Write("Введите свой возраст: ");
             //int userAge = Convert.ToInt32(Console.ReadLine());
 
-            //if (userAge <= 5)
+            //if (totalPurchase >= 0 && userAge <= 5)
             //{
             //    Console.WriteLine("Детский билет");
             //}
@@ -78,7 +78,7 @@ namespace conditions
 
             // Классификация температуры
 
-            //Console.Write("Введите температуру вохду в данный момент: ");
+            //Console.Write("Введите температуру воздуха в данный момент: ");
             //int airTemperature = Convert.ToInt32(Console.ReadLine());
 
             //if (airTemperature < 0)
@@ -148,22 +148,22 @@ namespace conditions
             //        break;
             //}
 
-            // Определение выходного дня
+            //Определение выходного дня
 
             //Console.Write("Введите номер дня недели (1 - понедельник, ..., 7 - воскресенье): ");
-            //char dayNumber = Convert.ToChar(Console.ReadLine());
+            //int dayNumber = Convert.ToInt32(Console.ReadLine());
 
             //switch (dayNumber)
             //{
-            //    case '1':
-            //    case '2':
-            //    case '3':
-            //    case '4':
-            //    case '5':
+            //    case 1:
+            //    case 2:
+            //    case 3:
+            //    case 4:
+            //    case 5:
             //        Console.WriteLine("Рабочий день");
             //        break;
-            //    case '6':
-            //    case '7':
+            //    case 6:
+            //    case 7:
             //        Console.WriteLine("Выходной");
             //        break;
             //    default:
